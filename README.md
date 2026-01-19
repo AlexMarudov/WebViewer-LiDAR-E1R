@@ -1,4 +1,4 @@
-#WebViewer для LiDAR E1R
+# WebViewer для LiDAR E1R
 ## Пример
 ![Лидар](README/webviewer.png)
 ## Используемое оборудование
